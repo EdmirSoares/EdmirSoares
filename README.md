@@ -32,7 +32,7 @@
 ### 📫 &nbsp; Contato:
 
 
-<a href="https://www.linkedin.com/in/edmir-soares-de-queiroz/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/edmir-soares/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
 
 <!--
