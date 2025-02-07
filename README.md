@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-💡 &nbsp;Sou estudante de Análise e Desenvolvimento de Sistemas com bacharelado em Design Gráfico pela Universidade Tiradentes! \
+💡 &nbsp;Desenvolvedor FrontEnd, caminhando para o fullstack! \
 💻 &nbsp;Atualmente, estou trabalhando em um projeto de pesquisa na área de Usabilidade de Software para pessoas com Deficiências.\
-🌱 &nbsp;Estou no caminho para aprender mais sobre Desenvolvimento de Software, Usabilidade e Análise de Dados.\
-✍️ &nbsp;No meu tempo livre, jogo videogames, vou à academia e pratico hobbies artesanais.\
-💬 &nbsp;Sinta-se à vontade para me contatar para conversas, dicas, feedbacks ou discussões sobre os tópicos mencionados!\
+🌱 &nbsp;Em contínuo aprendizado sobre Desenvolvimento de Software, Usabilidade e Acessibilidade!\
+✍️ &nbsp;No meu tempo livre, jogo videogames, vou à academia, pratico hobbies artesanais e estudo.\
+💬 &nbsp;Sinta-se à vontade para me contatar para conversas, dicas, feedbacks ou discussões!\
 ✉️ &nbsp;Você pode me contatar por aqui mesmo ou LinkedIn. Tentarei responder o mais rápido possível!\
 📄 &nbsp;Você pode conferir meu [LinkedIn](https://www.linkedin.com/in/edmir-soares-de-queiroz/) para mais detalhes sobre minha experiência de trabalho, networking ou para conversar sobre qualquer coisa!
 
@@ -36,19 +36,3 @@
 
 
 <a href="https://www.linkedin.com/in/edmir-soares/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-
-
-<!--
-**EdmirSoares/EdmirSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
