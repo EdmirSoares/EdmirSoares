@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-💡 &nbsp;Desenvolvedor FrontEnd, caminhando para o fullstack! \
+💡 &nbsp;Desenvolvedor Mobile, caminhando para o fullstack! \
 💻 &nbsp;Atualmente, estou trabalhando em um projeto de pesquisa na área de Usabilidade de Software para pessoas com Deficiências.\
 🌱 &nbsp;Em contínuo aprendizado sobre Desenvolvimento de Software, Usabilidade e Acessibilidade!\
 ✍️ &nbsp;No meu tempo livre, jogo videogames, vou à academia, pratico hobbies artesanais e estudo.\
