@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-💡 &nbsp;Desenvolvedor Mobile, caminhando para o fullstack! \
-💻 &nbsp;Atualmente, estou trabalhando em um projeto de pesquisa na área de Usabilidade de Software para pessoas com Deficiências.\
+💡 &nbsp;Desenvolvedor fullstack apaixonado por mobile! \
+💻 &nbsp;Pesquisador científico na área de Usabilidade de Software para pessoas com Deficiências.\
 🌱 &nbsp;Em contínuo aprendizado sobre Desenvolvimento de Software, Usabilidade e Acessibilidade!\
 ✍️ &nbsp;No meu tempo livre, jogo videogames, vou à academia, pratico hobbies artesanais e estudo.\
 💬 &nbsp;Sinta-se à vontade para me contatar para conversas, dicas, feedbacks ou discussões!\
@@ -19,6 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -27,6 +28,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeorm)
 ![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)
 ![Yup](https://img.shields.io/badge/-Yup-05122A?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
