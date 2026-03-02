@@ -1,46 +1,74 @@
-## Hello there !<img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/>
+# 👋 Olá, eu sou o Edmir
 
-### 👨🏻‍💻 &nbsp;Sobre Mim
+### 📱 Desenvolvedor Mobile | Flutter & React Native
 
-💡 &nbsp;Desenvolvedor fullstack apaixonado por mobile! \
-💻 &nbsp;Pesquisador científico na área de Usabilidade de Software para pessoas com Deficiências.\
-🌱 &nbsp;Em contínuo aprendizado sobre Desenvolvimento de Software, Usabilidade e Acessibilidade!\
-✍️ &nbsp;No meu tempo livre, jogo videogames, vou à academia, pratico hobbies artesanais e estudo.\
-💬 &nbsp;Sinta-se à vontade para me contatar para conversas, dicas, feedbacks ou discussões!\
-✉️ &nbsp;Você pode me contatar por aqui mesmo ou LinkedIn. Tentarei responder o mais rápido possível!\
-📄 &nbsp;Você pode conferir meu [LinkedIn](https://www.linkedin.com/in/edmir-soares-de-queiroz/) para mais detalhes sobre minha experiência de trabalho, networking ou para conversar sobre qualquer coisa!
+Desenvolvo aplicações mobile escaláveis, com foco em arquitetura, performance e experiência do usuário.  
+Atualmente focado no mercado nacional, buscando oportunidades como Desenvolvedor Mobile.
 
-#### Se precisar de mais alguma coisa, é só avisar!
+---
 
-### 🛠 &nbsp;Tech Stack
+## 🚀 Sobre Mim
 
+- 📱 Especialista em Flutter e React Native
+- 🏗 Aplicação de Clean Architecture e princípios SOLID
+- 🔄 Integração com APIs REST, persistência local e sincronização offline
+- 🧪 Testes unitários e E2E
+- ♿ Pesquisador científico em Usabilidade e Acessibilidade de Software
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)
+Tenho interesse especial em construir aplicações acessíveis, performáticas e bem estruturadas para ambientes de produção.
+
+---
+
+## 🛠 Stack Principal
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+
+### 🏗 Arquitetura & Estado
+![Bloc](https://img.shields.io/badge/-Bloc-05122A?style=flat)
+![Riverpod](https://img.shields.io/badge/-Riverpod-05122A?style=flat)
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=zustand)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=flat)
+
+### 🗄 Persistência
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
-![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeorm)
-![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)
-![Yup](https://img.shields.io/badge/-Yup-05122A?style=flat)
+![Drift](https://img.shields.io/badge/-Drift-05122A?style=flat)
+
+### ☁ DevOps Mobile
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=json-web-tokens)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
+![Fastlane](https://img.shields.io/badge/-Fastlane-05122A?style=flat)
+![TestFlight](https://img.shields.io/badge/-TestFlight-05122A?style=flat)
 
+### 🧪 Testes
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
+![Flutter Test](https://img.shields.io/badge/-Flutter%20Test-05122A?style=flat)
+![Detox](https://img.shields.io/badge/-Detox-05122A?style=flat)
 
-### 📫 &nbsp; Contato:
+---
 
+## 📊 Estatísticas
 
-<a href="https://www.linkedin.com/in/edmir-soares/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdmirSoares&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmirSoares&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Diferenciais
+
+- Desenvolvimento orientado à arquitetura
+- Experiência com aplicações offline-first
+- Foco em acessibilidade e usabilidade
+- Organização de projetos escaláveis
+- Conhecimento em ciclo completo de publicação
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmir-soares/)
