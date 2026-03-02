@@ -5,7 +5,6 @@ Desenvolvedor Mobile com experiência na construção de aplicações multiplata
 
 Experiência com desenvolvimento orientado a testes, integração com APIs REST, persistência local, sincronização offline-first e automação de builds. Forte interesse em usabilidade, acessibilidade e qualidade de código.
 
----
 
 ## Resumo Profissional
 
@@ -19,7 +18,6 @@ Experiência com desenvolvimento orientado a testes, integração com APIs REST,
 - Publicação em App Store e Google Play
 - Pesquisa científica em Usabilidade e Acessibilidade
 
----
 
 ## Stack Tecnológica
 
@@ -29,7 +27,6 @@ Experiência com desenvolvimento orientado a testes, integração com APIs REST,
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
 
 ### Mobile Development
 
@@ -37,7 +34,6 @@ Experiência com desenvolvimento orientado a testes, integração com APIs REST,
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
----
 
 ### Arquitetura e Padrões
 
@@ -46,7 +42,6 @@ Experiência com desenvolvimento orientado a testes, integração com APIs REST,
 ![Repository Pattern](https://img.shields.io/badge/Repository-Pattern-ff6f61?style=for-the-badge)
 ![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-4CAF50?style=for-the-badge)
 
----
 
 ### Gerenciamento de Estado
 
@@ -55,14 +50,12 @@ Experiência com desenvolvimento orientado a testes, integração com APIs REST,
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF9900?style=for-the-badge)
 
----
 
 ### Persistência de Dados
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Drift](https://img.shields.io/badge/Drift-FF7043?style=for-the-badge)
 
----
 
 ### Integração e Backend
 
@@ -70,7 +63,6 @@ Experiência com desenvolvimento orientado a testes, integração com APIs REST,
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge)
 
----
 
 ### DevOps e CI/CD
 
@@ -79,7 +71,6 @@ Experiência com desenvolvimento orientado a testes, integração com APIs REST,
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge)
 
----
 
 ### Testes
 
@@ -88,21 +79,15 @@ Experiência com desenvolvimento orientado a testes, integração com APIs REST,
 ![Detox](https://img.shields.io/badge/Detox-4CAF50?style=for-the-badge)
 ![E2E](https://img.shields.io/badge/E2E-Testing-FF5722?style=for-the-badge)
 
----
 
 ## Estatísticas do GitHub
+![GitHub Streak](https://streak-stats.demolab.com?user=EdmirSoares&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdmirSoares&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmirSoares&layout=compact)
-
----
 
 ## Objetivo Profissional
 
 Atuar como Desenvolvedor Mobile contribuindo com aplicações escaláveis, organizadas e prontas para ambientes de produção, agregando valor técnico e colaborando com equipes orientadas a qualidade e boas práticas de engenharia de software.
 
----
 
 ## Contato
 
