@@ -1,98 +1,123 @@
+<div align="center">
+
 # Edmir Soares
-## Desenvolvedor Mobile | Flutter & React Native
+### Full-Stack Developer · React Native · Node.js
 
-Desenvolvedor Mobile com experiência na construção de aplicações multiplataforma utilizando Flutter e React Native. Atuação com foco em arquitetura limpa, escalabilidade, performance e boas práticas de engenharia de software.
+*Construindo produtos escaláveis, acessíveis e resilientes - do backend à interface.*
 
-Experiência com desenvolvimento orientado a testes, integração com APIs REST, persistência local, sincronização offline-first e automação de builds. Forte interesse em usabilidade, acessibilidade e qualidade de código.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edmir--soares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edmir-soares)
+[![GitHub](https://img.shields.io/badge/GitHub-EdmirSoares-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EdmirSoares)
+[![Email](https://img.shields.io/badge/Email-edmir.soares@icloud.com-black?style=flat-square&logo=apple&logoColor=white)](mailto:edmir.soares@icloud.com)
 
+</div>
 
-## Resumo Profissional
+---
 
-- Desenvolvimento de aplicações mobile multiplataforma (Android e iOS)
-- Arquitetura baseada em Clean Architecture, Feature Based e princípios SOLID
-- Gerenciamento de estado previsível e desacoplado
-- Integração com APIs RESTful
-- Persistência local e estratégias offline-first
-- Testes unitários, integração e E2E
-- CI/CD e automação de builds
-- Publicação em App Store e Google Play
-- Pesquisa científica em Usabilidade e Acessibilidade
+## Sobre mim
 
+Sou desenvolvedor Full-Stack com foco em Mobile, atuando no ciclo completo do produto: APIs REST, modelagem de banco de dados, contêinerização com Docker e desenvolvimento de interfaces mobile e web de alta performance com TypeScript.
 
-## Stack Tecnológica
+Tenho histórico em produtos de alta criticidade, **banking**, **sistemas urbanos com geolocalização em tempo real** e **arquiteturas offline-first** para ambientes com conectividade instável. Combino engenharia com design: sou formado em Design Gráfico e pesquisador científico em UI/UX e acessibilidade, com **dois artigos publicados internacionalmente no WEBIST 2025**.
 
-### Linguagens
+- 🏦 Desenvolvedor Mobile na **Atos Capital** - apps de banking (React Native + React.js)
+- 🏙️ Desenvolvedor Mobile na **Pop Tech** - ecossistema de apps urbanos críticos (React Native + Expo)
+- 🎓 Monitor de Desenvolvimento Web - **Universidade Estácio de Sá**
+- 📍 Aracaju, SE - Brasil · Disponível para trabalho remoto
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
+## Stack principal
 
-### Mobile Development
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+### Web
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### Arquitetura e Padrões
+### Arquitetura & Qualidade
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C63FF?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-blueviolet?style=flat-square)
+![Offline First](https://img.shields.io/badge/Offline--First-FF6B35?style=flat-square)
+![WCAG](https://img.shields.io/badge/WCAG%202.1-005A9C?style=flat-square)
 
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C63FF?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-blueviolet?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository-Pattern-ff6f61?style=for-the-badge)
-![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-4CAF50?style=for-the-badge)
+---
 
+## Projetos em destaque
 
-### Gerenciamento de Estado
+### [TradeFlow - Simulador de Trading Bitcoin Full-Stack](https://github.com/EdmirSoares/monorepo-tradeflow)
+> Monorepo fullstack com backend Laravel 11 + app React Native (Expo). Usuários operam compra/venda de BTC com preços de mercado em tempo real.
 
-![Bloc](https://img.shields.io/badge/Bloc-42A5F5?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-0A84FF?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-FF9900?style=for-the-badge)
+**Destaques técnicos:**
+- Prevenção de gasto duplo com locking em duas camadas: Redis (`Cache::lock`) + `lockForUpdate()` dentro de `DB::transaction` no PostgreSQL
+- Precisão financeira com `bcmath` e colunas `DECIMAL(20,8)` - nunca `float`
+- Cache de preço BTC no Redis (TTL 30s) com polling via React Query (10s)
+- Tratamento tipado de erros de domínio (`InsufficientFundsException`) com HTTP 422
 
+`Laravel 11` `PHP` `PostgreSQL` `Redis` `Docker` `Nginx` `React Native` `Expo` `TypeScript` `Sanctum`
 
-### Persistência de Dados
+---
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Drift](https://img.shields.io/badge/Drift-FF7043?style=for-the-badge)
+### [Clody - App de Clima com Claymorphism e Acessibilidade](https://github.com/EdmirSoares/clody-app)
+> App mobile de previsão do tempo com design claymorphism (Skia + Inner Shadow), busca de cidades com debounce e histórico local persistido em SQLite.
 
+**Destaques técnicos:**
+- Gerenciamento de estado com Zustand + TanStack Query: queries condicionais ativadas após GPS disponível
+- Persistência com Expo SQLite + Drizzle ORM: histórico LRU (máx. 2 entradas) com upsert de timestamp
+- Acessibilidade nativa completa: `accessibilityRole`, `accessibilityLabel` e `accessibilityHint` em todos os elementos
+- Tipografia responsiva via `useFontScale` (85%–120% baseado na largura do dispositivo)
 
-### Integração e Backend
+`React Native` `Expo` `TypeScript` `Zustand` `TanStack Query` `SQLite` `Drizzle ORM` `Skia` `Zod` `Expo Router`
 
-![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge)
+---
 
+### [IoT MQTT Controller - Controle remoto de dispositivos em tempo real](https://github.com/EdmirSoares/virtual_valve_mqtt_controller)
+> App Flutter para controle remoto de dispositivos físicos via protocolo MQTT, com foco em baixa latência e alta confiabilidade.
 
-### DevOps e CI/CD
+`Flutter` `Dart` `MQTT` `Clean Architecture` `Bloc/Cubit`
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge)
-![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge)
+---
 
+### [Gerenciamento de Operações Agrícolas](https://github.com/EdmirSoares/gerenciamento_agricola)
+> App Flutter para gestão de operações agrícolas em campo, com persistência local robusta e arquitetura modular escalável.
 
-### Testes
+`Flutter` `Dart` `Drift ORM` `Bloc/Cubit` `Clean Architecture` `REST API`
 
-![Flutter Test](https://img.shields.io/badge/Flutter%20Test-02569B?style=for-the-badge)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Detox](https://img.shields.io/badge/Detox-4CAF50?style=for-the-badge)
-![E2E](https://img.shields.io/badge/E2E-Testing-FF5722?style=for-the-badge)
+---
 
+## Publicações científicas
 
-## Estatísticas do GitHub
+| Conferência | Título |
+|-------------|--------|
+| WEBIST 2025 | *Exploring the Impact of UI/UX on Trust in E-commerce* |
+| WEBIST 2025 | *A Framework for Accessible Web Design in Low-Bandwidth Environments* |
+
+---
+
+## Estatísticas
+
+<div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=EdmirSoares&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmirSoares&layout=compact&theme=tokyonight&hide_border=true)
 
-## Objetivo Profissional
+</div>
 
-Atuar como Desenvolvedor Mobile contribuindo com aplicações escaláveis, organizadas e prontas para ambientes de produção, agregando valor técnico e colaborando com equipes orientadas a qualidade e boas práticas de engenharia de software.
+---
 
+<div align="center">
 
-## Contato
+*Open to remote opportunities - Brasil e internacional*
 
-LinkedIn:  
-https://www.linkedin.com/in/edmir-soares/
-
-GitHub:  
-https://github.com/EdmirSoares
+</div>
