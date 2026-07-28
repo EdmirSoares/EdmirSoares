@@ -1,13 +1,12 @@
 <div align="center">
 
 # Edmir Soares
-### Full-Stack Developer · React Native · Node.js
+### Mobile Developer · React Native · Node.js
 
 *Construindo produtos escaláveis, acessíveis e resilientes - do backend à interface.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edmir--soares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edmir-soares)
 [![GitHub](https://img.shields.io/badge/GitHub-EdmirSoares-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EdmirSoares)
-[![Email](https://img.shields.io/badge/Email-edmir.soares@icloud.com-black?style=flat-square&logo=apple&logoColor=white)](mailto:edmir.soares@icloud.com)
 
 </div>
 
@@ -15,14 +14,27 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full-Stack com foco em Mobile, atuando no ciclo completo do produto: APIs REST, modelagem de banco de dados, contêinerização com Docker e desenvolvimento de interfaces mobile e web de alta performance com TypeScript.
+Desenvolvedor mobile com foco em React Native, migrando também para Flutter, construindo aplicativos de alta performance para cenários de conectividade instável, arquiteturas offline-first, sincronização de dados e integrações nativas.
 
-Tenho histórico em produtos de alta criticidade, **banking**, **sistemas urbanos com geolocalização em tempo real** e **arquiteturas offline-first** para ambientes com conectividade instável. Combino engenharia com design: sou formado em Design Gráfico e pesquisador científico em UI/UX e acessibilidade, com **dois artigos publicados internacionalmente no WEBIST 2025**.
 
-- 🏦 Desenvolvedor Mobile na **Atos Capital** - apps de banking (React Native + React.js)
-- 🏙️ Desenvolvedor Mobile na **Pop Tech** - ecossistema de apps urbanos críticos (React Native + Expo)
-- 🎓 Monitor de Desenvolvimento Web - **Universidade Estácio de Sá**
-- 📍 Aracaju, SE - Brasil · Disponível para trabalho remoto
+
+Tenho histórico em produtos mobile de alta criticidade: aplicações bancárias (mobile + web), sistemas urbanos com geolocalização em tempo real e apps de campo com operação offline. Sólido em Clean Architecture, persistência local (SQLite, MMKV, Drift) e publicação/ciclo de vida de apps nas lojas.
+
+
+
+Como venho de uma trajetória full-stack, também domino a construção de APIs e de serviços back-end (Node.js, Express, Fastify, NestJS, PostgreSQL, Prisma/Drizzle, Docker, JWT/OAuth). Isso me dá uma vantagem real em mobile: entendo o contrato de API de ponta a ponta, o que ajuda a resolver problemas de integração, performance e segurança sem depender só do time de backend.
+
+
+
+Meu diferencial é a combinação entre engenharia e design: conduzi redesigns completos com processo estruturado de UI/UX (heurísticas de Nielsen, design tokens, WCAG 2.1), resultando em produtos mobile mais acessíveis e consistentes entre plataformas.
+
+
+
+Publiquei pesquisa científica internacional (WEBIST 2025 e 2026) sobre UI/UX e acessibilidade e ministro minicursos sobre Clean Architecture e React Native offline-first.
+
+
+
+Tenho buscado ir além da implementação: entender onde a IA acelera o desenvolvimento mobile e onde ainda exige julgamento humano na arquitetura, nos trade-offs de performance offline-first e nas decisões de UX. Minha trajetória de designer gráfico a desenvolvedor mobile reflete uma capacidade real de adaptação técnica, não só um histórico de mudanças.
 
 ---
 
@@ -30,7 +42,9 @@ Tenho histórico em produtos de alta criticidade, **banking**, **sistemas urbano
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-20232A?style=flat-square&logo=flutter&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3178C6?style=flat-square&logo=dart&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### Backend
