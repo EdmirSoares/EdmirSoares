@@ -1,7 +1,7 @@
 <div align="center">
 
 # Edmir Soares
-### Mobile Developer · React Native · Node.js
+### Mobile Developer · React Native · Flutter
 
 *Construindo produtos escaláveis, acessíveis e resilientes - do backend à interface.*
 
