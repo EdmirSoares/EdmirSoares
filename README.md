@@ -3,7 +3,7 @@
 # Edmir Soares
 ### Mobile Developer · React Native · Flutter
 
-*Construindo produtos escaláveis, acessíveis e resilientes - do backend à interface.*
+*Construindo produtos escaláveis, acessíveis e resilientes*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edmir--soares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edmir-soares)
 [![GitHub](https://img.shields.io/badge/GitHub-EdmirSoares-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EdmirSoares)
