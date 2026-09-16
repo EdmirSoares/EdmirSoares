@@ -78,7 +78,7 @@ Tenho buscado ir além da implementação: entender onde a IA acelera o desenvol
 - Cache de preço BTC no Redis (TTL 30s) com polling via React Query (10s)
 - Tratamento tipado de erros de domínio (`InsufficientFundsException`) com HTTP 422
 
-`Laravel 11` `PHP` `PostgreSQL` `Redis` `Docker` `Nginx` `React Native` `Expo` `TypeScript` `Sanctum`
+`Laravel` `PHP` `PostgreSQL` `Redis` `Docker` `Nginx` `React Native` `Expo` `TypeScript` `Sanctum`
 
 ---
 
