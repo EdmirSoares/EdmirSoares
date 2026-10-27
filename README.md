@@ -1,53 +1,57 @@
 <div align="center">
 
 # Edmir Soares
-### Mobile Developer · React Native · Flutter
 
-*Construindo produtos escaláveis, acessíveis e resilientes*
+### Mobile Developer | React Native | Flutter | iOS and Android
+
+Building fast, offline-ready and accessible mobile apps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edmir--soares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edmir-soares)
-[![GitHub](https://img.shields.io/badge/GitHub-EdmirSoares-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EdmirSoares)
+[![Email](https://img.shields.io/badge/Email-edmir.soares%40icloud.com-555555?style=flat-square&logo=icloud&logoColor=white)](mailto:edmir.soares@icloud.com)
 
 </div>
 
 ---
 
-## Sobre mim
+## About
 
-Desenvolvedor mobile com foco em React Native, migrando também para Flutter, construindo aplicativos de alta performance para cenários de conectividade instável, arquiteturas offline-first, sincronização de dados e integrações nativas.
+React Native Developer at **InEvent**, a global event technology platform, with 3+ years building iOS and Android apps for banking, urban field operations and events.
 
+I focus on the parts of mobile that are hard to get right: performance on low-end devices, offline first data with secure sync, native integrations and release pipelines. I came from graphic design, so UI/UX and accessibility are part of how I build.
 
+## Highlights
 
-Tenho histórico em produtos mobile de alta criticidade: aplicações bancárias (mobile + web), sistemas urbanos com geolocalização em tempo real e apps de campo com operação offline. Sólido em Clean Architecture, persistência local (SQLite, MMKV, Drift) e publicação/ciclo de vida de apps nas lojas.
+- Cut Unity startup inside a React Native app from **over 3 minutes to near instant**, and raised low-end Android performance from **under 20 to over 30 FPS**, using on-demand loading through a custom React Native to Unity bridge
+- Reduced location processing for field teams from **about 3 seconds to under 1 second** by pre-warming the location engine
+- Apps running at **60 FPS** with UI thread animations, with cold start around **2 seconds**
+- Led the redesign of **3 banking products** with Nielsen heuristics, design tokens and WCAG 2.1
 
+## Stack
 
-
-Como venho de uma trajetória full-stack, também domino a construção de APIs e de serviços back-end (Node.js, Express, Fastify, NestJS, PostgreSQL, Prisma/Drizzle, Docker, JWT/OAuth). Isso me dá uma vantagem real em mobile: entendo o contrato de API de ponta a ponta, o que ajuda a resolver problemas de integração, performance e segurança sem depender só do time de backend.
-
-
-
-Meu diferencial é a combinação entre engenharia e design: conduzi redesigns completos com processo estruturado de UI/UX (heurísticas de Nielsen, design tokens, WCAG 2.1), resultando em produtos mobile mais acessíveis e consistentes entre plataformas.
-
-
-
-Publiquei pesquisa científica internacional (WEBIST 2025 e 2026) sobre UI/UX e acessibilidade e ministro minicursos sobre Clean Architecture e React Native offline-first.
-
-
-
-Tenho buscado ir além da implementação: entender onde a IA acelera o desenvolvimento mobile e onde ainda exige julgamento humano na arquitetura, nos trade-offs de performance offline-first e nas decisões de UX. Minha trajetória de designer gráfico a desenvolvedor mobile reflete uma capacidade real de adaptação técnica, não só um histórico de mudanças.
-
----
-
-## Stack principal
-
-### Mobile
+**Mobile**
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-20232A?style=flat-square&logo=flutter&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3178C6?style=flat-square&logo=dart&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Reanimated](https://img.shields.io/badge/Reanimated-000000?style=flat-square&logo=react&logoColor=white)
+![FlashList](https://img.shields.io/badge/FlashList-7B61FF?style=flat-square)
 
-### Backend
+**State, data and offline**
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=flat-square)
+
+**Testing and delivery**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![EAS](https://img.shields.io/badge/EAS%20Build%20and%20Updates-000020?style=flat-square&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -55,83 +59,43 @@ Tenho buscado ir além da implementação: entender onde a IA acelera o desenvol
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Web
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+## Featured projects
 
-### Arquitetura & Qualidade
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C63FF?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-blueviolet?style=flat-square)
-![Offline First](https://img.shields.io/badge/Offline--First-FF6B35?style=flat-square)
-![WCAG](https://img.shields.io/badge/WCAG%202.1-005A9C?style=flat-square)
+| Project | What it shows | Stack |
+|---|---|---|
+| [**Route Monitoring**](https://github.com/EdmirSoares/route-monitoring-app) | Real time route tracking with background location and offline first sync | React Native, Expo, SQLite, Drizzle, Task Manager |
+| [**TradeFlow**](https://github.com/EdmirSoares/monorepo-tradeflow) | Bitcoin trading simulator with double-spend prevention and financial precision | React Native, Laravel 11, PostgreSQL, Redis, Docker |
+| [**Industrial Asset Health Monitor**](https://github.com/EdmirSoares/industrial-asset-health-monitor) | Real time telemetry dashboard with charts and gauges animated on the UI thread | React Native, Reanimated, Zustand, MMKV |
+| [**Clody**](https://github.com/EdmirSoares/clody-app) | Weather app with Skia claymorphism and full native accessibility | React Native, Skia, TanStack Query, SQLite |
+| [**IoT MQTT Controller**](https://github.com/EdmirSoares/virtual_valve_mqtt_controller) | Remote control of devices over MQTT with a command and confirmation flow | Flutter, BLoC, MQTT |
+| [**Farm Operations Manager**](https://github.com/EdmirSoares/gerenciamento_agricola) | Offline first field management app with unit tested use cases | Flutter, Drift, BLoC |
 
----
+## Publications
 
-## Projetos em destaque
+- **Microfrontend: A Survey on Industry Practices** (co-author). ICEIS 2026, Benidorm, Spain. [DOI 10.5220/0013968200004018](https://doi.org/10.5220/0013968200004018)
+- **Usability in Software for People with Disabilities: Systematic Mapping** (co-author). ICEIS 2025, Porto, Portugal
 
-### [TradeFlow - Simulador de Trading Bitcoin Full-Stack](https://github.com/EdmirSoares/monorepo-tradeflow)
-> Monorepo fullstack com backend Laravel 11 + app React Native (Expo). Usuários operam compra/venda de BTC com preços de mercado em tempo real.
+## Currently
 
-**Destaques técnicos:**
-- Prevenção de gasto duplo com locking em duas camadas: Redis (`Cache::lock`) + `lockForUpdate()` dentro de `DB::transaction` no PostgreSQL
-- Precisão financeira com `bcmath` e colunas `DECIMAL(20,8)` - nunca `float`
-- Cache de preço BTC no Redis (TTL 30s) com polling via React Query (10s)
-- Tratamento tipado de erros de domínio (`InsufficientFundsException`) com HTTP 422
-
-`Laravel` `PHP` `PostgreSQL` `Redis` `Docker` `Nginx` `React Native` `Expo` `TypeScript` `Sanctum`
+- Building mobile features at InEvent
+- Exploring data engineering with a home IoT lab: ESP32 sensors feeding a data pipeline
 
 ---
 
-### [Clody - App de Clima com Claymorphism e Acessibilidade](https://github.com/EdmirSoares/clody-app)
-> App mobile de previsão do tempo com design claymorphism (Skia + Inner Shadow), busca de cidades com debounce e histórico local persistido em SQLite.
+<details>
+<summary><b>Versão em português</b></summary>
 
-**Destaques técnicos:**
-- Gerenciamento de estado com Zustand + TanStack Query: queries condicionais ativadas após GPS disponível
-- Persistência com Expo SQLite + Drizzle ORM: histórico LRU (máx. 2 entradas) com upsert de timestamp
-- Acessibilidade nativa completa: `accessibilityRole`, `accessibilityLabel` e `accessibilityHint` em todos os elementos
-- Tipografia responsiva via `useFontScale` (85%–120% baseado na largura do dispositivo)
+<br>
 
-`React Native` `Expo` `TypeScript` `Zustand` `TanStack Query` `SQLite` `Drizzle ORM` `Skia` `Zod` `Expo Router`
+**Sobre.** Desenvolvedor React Native na **InEvent**, plataforma global de tecnologia para eventos, com mais de 3 anos criando aplicativos iOS e Android para bancos, operações urbanas em campo e eventos. Meu foco são as partes difíceis do mobile: performance em aparelhos de entrada, dados offline first com sincronização segura, integrações nativas e pipelines de publicação. Vim do design gráfico, então UI/UX e acessibilidade fazem parte de como eu desenvolvo.
 
----
+**Destaques**
 
-### [IoT MQTT Controller - Controle remoto de dispositivos em tempo real](https://github.com/EdmirSoares/virtual_valve_mqtt_controller)
-> App Flutter para controle remoto de dispositivos físicos via protocolo MQTT, com foco em baixa latência e alta confiabilidade.
+- Reduzi a inicialização da Unity dentro de um app React Native de **mais de 3 minutos para quase instantânea** e elevei a performance em Android de entrada de **menos de 20 para mais de 30 FPS**, com carregamento sob demanda por uma ponte própria entre React Native e Unity
+- Reduzi o processamento de localização para equipes de campo de **cerca de 3 segundos para menos de 1 segundo**, pré-carregando o motor de localização
+- Apps a **60 FPS** com animações na UI thread, com cold start em torno de **2 segundos**
+- Liderei o redesign de **3 produtos bancários** com heurísticas de Nielsen, design tokens e WCAG 2.1
 
-`Flutter` `Dart` `MQTT` `Clean Architecture` `Bloc/Cubit`
+**No momento**, desenvolvo funcionalidades mobile na InEvent e estudo engenharia de dados com um laboratório de IoT em casa: sensores ESP32 alimentando um pipeline de dados.
 
----
-
-### [Gerenciamento de Operações Agrícolas](https://github.com/EdmirSoares/gerenciamento_agricola)
-> App Flutter para gestão de operações agrícolas em campo, com persistência local robusta e arquitetura modular escalável.
-
-`Flutter` `Dart` `Drift ORM` `Bloc/Cubit` `Clean Architecture` `REST API`
-
----
-
-## Publicações científicas
-
-| Conferência | Título |
-|-------------|--------|
-| WEBIST 2025 | *Exploring the Impact of UI/UX on Trust in E-commerce* |
-| WEBIST 2025 | *A Framework for Accessible Web Design in Low-Bandwidth Environments* |
-
----
-
-## Estatísticas
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EdmirSoares&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmirSoares&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to remote opportunities - Brasil e internacional*
-
-</div>
+</details>
